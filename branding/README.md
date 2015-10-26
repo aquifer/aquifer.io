@@ -4,7 +4,7 @@
 
 **Aquifer** is a trademark of Four Kitchens, LLC. You are free to use the logo to promote the Aquifer product as long as you do not modify it in any way.
 
-Drupal is a registered trademark of Dries Buytaert.
+Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytaert](http://buytaert.net/).
 
 ## Color palette
 
