@@ -1,6 +1,6 @@
 # Aquifer branding
 
-![Aquifer logo](/branding/aquifer-logo-500px.png)
+![Aquifer logo](/branding/aquifer-logo-500.png)
 
 **Aquifer** is a trademark of Four Kitchens, LLC. You are free to use the logo to promote the Aquifer product as long as you do not modify it in any way.
 
