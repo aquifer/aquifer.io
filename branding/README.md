@@ -17,3 +17,6 @@ Dark gray   | #5A5957
 Green       | #499E52
 Light green | #59C064
 Dark green  | #355A38
+
+## Fonts
+This logo uses the [Outage](http://www.losttype.com/font/?name=outage) font.
